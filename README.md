@@ -17,8 +17,8 @@
       <img src="https://img.shields.io/badge/Email-C38D9E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://vanesarioja.wixsite.com/vanesa-rioja-cruz" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-8A4F7D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <a href="https://www.instagram.com/vanesarioja29/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-8A4F7D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     &nbsp;
     <img src="https://img.shields.io/badge/Lima%2C%20Perú-9D8189?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
